@@ -13,7 +13,7 @@
 ### Lanzamiento para desarrollo
 1. Clona el repositorio
 ```bash
-git clone https://github.com/Luis-Valenzuela-Concha/WikInf
+git clone https://github.com/plataformas-cainf/WikInf.git
 ```
 
 2. Navega a la carpeta del proyecto
