@@ -41,7 +41,7 @@ export default {
   docsRepositoryBase:
     "https://github.com/Luis-Valenzuela-Concha/WikInf/tree/main",
   editLink: {
-    text: "Constribuye a esta página →",
+    text: "Contribuye a esta página →",
   },
   feedback: {
     content: null,
