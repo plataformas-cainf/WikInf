@@ -7,7 +7,7 @@ jobs:
   build:
     name: Build & Deploy
     runs-on: ubuntu-latest
-    if: github.repository == 'Luis-Valenzuela-Concha/WikInf'
+    if: github.repository == 'plataformas-cainf/WikInf'
     steps:
       - name: Deploy last changes
         uses: appleboy/ssh-action@v1.0.3
