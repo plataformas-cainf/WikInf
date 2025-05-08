@@ -39,7 +39,7 @@ export default {
     ),
   },
   docsRepositoryBase:
-    "https://github.com/Luis-Valenzuela-Concha/WikInf/tree/main",
+    "https://github.com/plataformas-cainf/WikInf/tree/main",
   editLink: {
     text: "Contribuye a esta página →",
   },
